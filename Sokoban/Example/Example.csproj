@@ -97,6 +97,9 @@
     <Content Include="character.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Level2.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Level1.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

@@ -31,8 +31,8 @@ namespace Example
 
         double vx = 0;
         double vy = 0;
-        double k = 0.2;
-        double velocityReduction = .7;
+        double k = 0.5;
+        double velocityReduction = .4;
 
         //F=m*a
         //k*dist=a

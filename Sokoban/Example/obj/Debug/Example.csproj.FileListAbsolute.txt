@@ -11,3 +11,4 @@ C:\Users\Teacher\source\repos\Example\Example\bin\Debug\acorn.png
 C:\Users\Teacher\source\repos\Example\Example\obj\Debug\Example.Engine.resources
 C:\Users\Teacher\source\repos\Example\Example\bin\Debug\character.png
 C:\Users\Teacher\source\repos\Example\Example\bin\Debug\Level1.txt
+C:\Users\Teacher\source\repos\Example\Example\bin\Debug\Level2.txt
