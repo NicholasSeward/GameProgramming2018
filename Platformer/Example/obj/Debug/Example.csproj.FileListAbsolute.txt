@@ -1,0 +1,14 @@
+C:\Users\Teacher\source\repos\Example\Example\bin\Debug\Example.exe.config
+C:\Users\Teacher\source\repos\Example\Example\bin\Debug\Example.exe
+C:\Users\Teacher\source\repos\Example\Example\bin\Debug\Example.pdb
+C:\Users\Teacher\source\repos\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\Teacher\source\repos\Example\Example\obj\Debug\Example.Properties.Resources.resources
+C:\Users\Teacher\source\repos\Example\Example\obj\Debug\Example.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Example\Example\obj\Debug\Example.exe
+C:\Users\Teacher\source\repos\Example\Example\obj\Debug\Example.pdb
+C:\Users\Teacher\source\repos\Example\Example\bin\Debug\acorn.png
+C:\Users\Teacher\source\repos\Example\Example\obj\Debug\Example.Engine.resources
+C:\Users\Teacher\source\repos\Example\Example\bin\Debug\character.png
+C:\Users\Teacher\source\repos\Example\Example\bin\Debug\Level1.txt
+C:\Users\Teacher\source\repos\Example\Example\bin\Debug\Level2.txt
